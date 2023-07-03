@@ -3,7 +3,7 @@
 - 🌱 I’ve just finished highschool and the mechatronics technician course. I'm currently learning Unity. ✨
 - 🌱 Computer Engineering Student ✨
 - 💞️ C# ✨
-- 📫 How to reach me ... ✨
+- 📫 [Link](https://beacons.ai/rafahoyos) ✨
 
 <!---
 TochaFh/TochaFh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
