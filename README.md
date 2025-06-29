@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rafa ✨
 - 👀 I’m interested in music, videogames and programming! ✨
-- 🌱 I’ve just finished highschool and the mechatronics technician course. I'm currently learning Unity. ✨
-- 🌱 Computer Engineering Student ✨
+- 🌱 Computer Engineering Student at Unicamp ✨
 - 💞️ C# ✨
 - 📫 [Link](https://beacons.ai/rafahoyos) ✨
 
